@@ -46,7 +46,9 @@ $ source virtualenv/Scripts/activate
 
 Note que a palavra **virtualenv** vai aparecer no seu terminal.
 
-OBS: para desativar o ambiente vistual basta digital: `deactivate`.
+**IMPORTANTE:** O ambiente virtual deve estar ativado para realizar as atividades.
+
+**OBS:** para desativar o ambiente vistual basta digital: `deactivate`.
 
 
 ## 7. Instale Django e Selenium
