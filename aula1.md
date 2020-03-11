@@ -136,8 +136,6 @@ Uma aplicação TODO list é bem simples (apenas uma listagem de tarefas), entã
 
 Testes que usam Selenium (ou seja, os Testes Funcionais) permitem que aplicações sejam testadas do ponto de vista do usuário. Em outras palavras, os Testes Funcionais podem ser vistos como uma especificação do sistema. Podemos mapear esse teste para uma [História do Usuário](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_de_usu%C3%A1rio) (User Story), ou seja, como o usuário vai utilizar uma determinada funcionalidade e como o sistema deve responder.
 
-Lembrando: Testes Funcionais == Testes de Aceitação == Testes End-to-End
-
 Testes Funcionais (assim como Histórias do Usuário) devem contar uma história legível por humanos. Podemos fazer isso explícito através de comentários no próprio Teste Funcional.
 
 Abra **functional_tests.py** e escreva a seguinte história:
