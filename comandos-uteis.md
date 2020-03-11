@@ -1,35 +1,3 @@
-# Virtualenv
-
-### Criar Virtualenv Mac/Linux:
-
-```ShellSession
-$ python3.7 -m venv virtualenv
-```
-
-### Criar Virtualenv Windows:
-
-```ShellSession
-$ py -3.7 -m venv virtualenv
-```
-
-### Ativar Virtualenv Mac/Linux:
-
-```ShellSession
-$ source virtualenv/Scripts/activate
-```
-
-### Ativar Virtualenv Windows:
-
-```ShellSession
-$ source virtualenv/Scripts/activate
-```
-
-### Desativar Virtualenv:
-
-```ShellSession
-$ deactivate
-```
-
 # Testes
 
 ### Rodar Testes Funcionais
@@ -74,4 +42,36 @@ $ python manage.py runserver
 $ git add xxx
 $ git commit -m "mensagem de commit"
 $ git push -u origin master
+```
+
+# Virtualenv
+
+### Criar Virtualenv Mac/Linux:
+
+```ShellSession
+$ python3.7 -m venv virtualenv
+```
+
+### Criar Virtualenv Windows:
+
+```ShellSession
+$ py -3.7 -m venv virtualenv
+```
+
+### Ativar Virtualenv Mac/Linux:
+
+```ShellSession
+$ source virtualenv/Scripts/activate
+```
+
+### Ativar Virtualenv Windows:
+
+```ShellSession
+$ source virtualenv/Scripts/activate
+```
+
+### Desativar Virtualenv:
+
+```ShellSession
+$ deactivate
 ```
