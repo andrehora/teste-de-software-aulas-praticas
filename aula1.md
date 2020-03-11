@@ -14,6 +14,7 @@ Mais informações ao longo do roteiro.
 
 Instruções:
 
+- Forme uma dupla.
 - Siga o roteiro, passo a passo.
 - Após cada passo, rode os testes.
 - Nos passos marcados com **COMMIT & PUSH**, faça um commit e um push no seu repositório.
