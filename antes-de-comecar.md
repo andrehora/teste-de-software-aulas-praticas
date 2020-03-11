@@ -38,7 +38,7 @@ $ py -3.7 -m venv virtualenv
 
 ## 6. Ative seu ambiente virtual
 
-Dentro da sua pasta de trabalho `tdd-project`
+Dentro da sua pasta de trabalho `tdd-project`:
 
 ```ShellSession
 $ source virtualenv/Scripts/activate
