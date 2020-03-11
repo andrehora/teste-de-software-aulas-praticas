@@ -16,7 +16,8 @@ Instruções:
 
 - Siga o roteiro, passo a passo.
 - Após cada passo, rode os testes.
-- Nos passos marcados com COMMIT & PUSH, faça um commit e um push no seu repositório. Isso será usado no momento da correção, para garantir que seguiu a sequência do roteiro, passo-a-passo.
+- Nos passos marcados com **COMMIT & PUSH**, faça um commit e um push no seu repositório.
+Isso será usado no momento da correção, para garantir que seguiu a sequência do roteiro, passo-a-passo.
 
 ## 1. Iniciando com TDD e Testes Funcionais
 
