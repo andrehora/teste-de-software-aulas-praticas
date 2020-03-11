@@ -184,7 +184,7 @@ Traceback (most recent call last):
 AssertionError
 ```
 
-Essa falha é esperada (expected fail), mas trata-se de uma pequena vitória: desenvolvedor possui uma especificação do que ele precisará implementar.
+Essa falha é esperada (expected fail), mas trata-se de uma pequena vitória: o desenvolvedor possui uma especificação do que ele precisará implementar.
 
 #### COMMIT & PUSH com a mensagem: Utilizando Testes Funcionais para planejar um MVP
 
