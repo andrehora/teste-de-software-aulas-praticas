@@ -261,7 +261,8 @@ Ran 1 test in 1.747s
 FAILED (failures=1)
 ```
 
-O resultado fornecido possui agora melhor formatação, detalhando: quantos testes rodaram, quantos falharam e o resultado de `assertIn`: 'To-Do' not found in 'Welcome to Django'.
+O resultado fornecido possui agora uma formatação melhor.
+Detalhando: quantos testes rodaram, quantos falharam e o resultado de `assertIn`: 'To-Do' not found in 'Welcome to Django'.
 
 #### COMMIT & PUSH com a mensagem: Utilizando o módulo unittest
 
