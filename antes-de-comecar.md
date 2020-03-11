@@ -44,7 +44,7 @@ Dentro da sua pasta de trabalho `tdd-project`:
 $ source virtualenv/Scripts/activate
 ```
 
-Veja o palavra **virtualenv** vai aparecer no seu terminal.
+Note que a palavra **virtualenv** vai aparecer no seu terminal.
 
 OBS: para desativar o ambiente vistual basta digital: `deactivate`.
 
