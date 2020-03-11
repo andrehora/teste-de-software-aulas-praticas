@@ -92,7 +92,7 @@ System check identified no issues (0 silenced).
 
 Nosso servidor de desenvolvimento está no ar. Tente entrar em: http://localhost:8000
 
-Abra outro terminal, navegue para a pasta do projeto, ative o virtualenv e rode o teste novamente:
+Abra outro terminal (**e lembre de ativar novamente o ambiente virtual do Python**), navegue para a pasta do projeto, ative o virtualenv e rode o teste novamente:
 
 ```ShellSession
 $ python functional_tests.py
