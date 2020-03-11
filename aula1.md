@@ -173,7 +173,7 @@ assert 'To-Do' in browser.title
 browser.quit()
 ```
 
-Note que mudamos o assert de 'Django' para 'to-do', logo esse teste deve falhar.
+Note que mudamos o assert de 'Django' para 'To-Do', logo esse teste deve falhar.
 Rode o teste funcional e verifique o resultado:
 
 ```ShellSession
