@@ -6,7 +6,7 @@ Prof. André Hora
 
 Objetivo: Reproduzir uma sessão de desenvolvimento de software usando TDD (Test-Driven Development), com base no livro Test-Driven-Development with Python.
 Especificamente, iremos reproduzir os exemplos do Cap. 1 até o Cap. 3 do livro.
-Faça o exercício com o mindset de TDD.
+**Faça o exercício com o mindset de TDD.**
 Se necessário, estude antes o material visto em sala de aula.
 
 Aplicação a ser desenvolvida: Site para listar tarefas a fazer (TODO list).
@@ -14,7 +14,6 @@ Mais informações ao longo do roteiro.
 
 Instruções:
 
-- Primeiro, crie um repositório no GitHub.
 - Siga o roteiro, passo a passo.
 - Após cada passo, rode os testes.
 - Nos passos marcados com COMMIT & PUSH, faça um commit e um push no seu repositório. Isso será usado no momento da correção, para garantir que seguiu a sequência do roteiro, passo-a-passo.
