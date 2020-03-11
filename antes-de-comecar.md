@@ -1,12 +1,13 @@
-## 1. Abra o terminal Git Bash
+## 1. Crie um repositório na sua conta do GitHub chamado ``tdd-project``
+
+Se necessário, leia mais informações [aqui](https://help.github.com/pt/github/getting-started-with-github/create-a-repo).
+
+
+## 2. Abra o terminal Git Bash
 Sempre utilize o terminal **Git Bash** para realizar as atividades das aulas práticas.
 
 OBS: todas as máquinas devem ter instalado o Git e o Git Bash, mas caso a sua máquina não tenha,
 baixe e instale no Windows (https://git-scm.com/download/win).
-
-## 2. Crie um repositório na sua conta do GitHub chamado ``tdd-project``
-
-Se necessário, leia mais informações [aqui](https://help.github.com/pt/github/getting-started-with-github/create-a-repo).
 
 ## 3. Crie uma pasta de trabalho na sua máquina chamada ``tdd-project``
 
