@@ -4,7 +4,7 @@
 
 Prof. André Hora
 
-Objetivo: Reproduzir uma sessão de desenvolvimento de software usando TDD (Test-Driven Development), com base no livro Test-Driven-Development with Python.
+Objetivo: Reproduzir uma sessão de desenvolvimento de software usando TDD (Test-Driven Development), com base no livro *Test-Driven-Development with Python*.
 Especificamente, iremos reproduzir os exemplos do Cap. 1 até o Cap. 3 do livro.
 **Faça o exercício com o mindset de TDD.**
 Se necessário, estude antes o material visto em sala de aula.
