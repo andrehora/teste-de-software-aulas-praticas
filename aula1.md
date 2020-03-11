@@ -21,7 +21,7 @@ Isso será usado no momento da correção, para garantir que seguiu a sequência
 
 ## 1. Iniciando com TDD e Testes Funcionais
 
-Crie um arquivo chamado **functional_tests.py**, com o seguinte código:
+No seu diretório de trabalho `tdd-project`, crie um arquivo chamado **functional_tests.py**, com o seguinte código:
 
 ```Python
 from selenium import webdriver
