@@ -63,9 +63,10 @@ $ pip install "django<1.12" "selenium<4"
 
 ## 8. Baixe o Driver Geckodriver
 
-O Geckodriver permite controlar o Firefox remotamente através do Selenium:
+O Geckodriver permite controlar o Firefox remotamente através do Selenium.
 
 Baixe o driver, descompacte e coloque dentro da sua pasta de trabalho `tdd-project`:
+
 - https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win64.zip
 
 ## 9. Ao concluir a aula prática, submeta via Moodle a dupla e o repositório GitHub
