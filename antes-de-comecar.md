@@ -72,6 +72,9 @@ Para desativar o ambiente virtual, basta digitar: `deactivate`.
 
 ## 7. Instale Django e Selenium (com ambiente virtual ativado)
 
+- Django: framework web que iremos utilizar.
+- Selenium: ferramenta para realizar testes funcionais em aplicações web.
+
 Com o ambiente virtual **ativado**, instale o Django 1.11 e o Selenium:
 
 ```
