@@ -65,12 +65,9 @@ Ativando no Mac/Linux:
 $ source virtualenv/bin/activate
 ```
 
-Note que a palavra **virtualenv** vai aparecer no seu terminal, mostrando que o ambiente virtual está ativo.
+Note que a palavra **virtualenv** vai aparecer no seu terminal, mostrando que o ambiente virtual está ativo. para desativar o ambiente vistual basta digital: `deactivate`.
 
-**IMPORTANTE:** O ambiente virtual deve estar sempre ativado para realizar as atividades.
-
-**OBS:** para desativar o ambiente vistual basta digital: `deactivate`.
-
+### IMPORTANTE: O ambiente virtual deve estar sempre ativado para realizar as atividades.
 
 ## 7. Instale Django e Selenium
 
