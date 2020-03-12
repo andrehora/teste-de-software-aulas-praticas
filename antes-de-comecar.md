@@ -65,7 +65,8 @@ Ativando no Mac/Linux:
 $ source virtualenv/bin/activate
 ```
 
-Note que a palavra **virtualenv** vai aparecer no seu terminal, mostrando que o ambiente virtual está ativo. para desativar o ambiente vistual basta digital: `deactivate`.
+Note que a palavra **virtualenv** vai aparecer no seu terminal, mostrando que o ambiente virtual está ativo.
+Para desativar o ambiente vistual basta digital: `deactivate`.
 
 ### IMPORTANTE: O ambiente virtual deve estar sempre ativado para realizar as atividades.
 
