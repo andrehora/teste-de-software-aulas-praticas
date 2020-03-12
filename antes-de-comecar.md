@@ -7,13 +7,15 @@
 ## 1. Crie um repositório na sua conta do GitHub chamado ``tdd-project``
 
 Se necessário, leia mais informações [sobe como criar um repositório](https://help.github.com/pt/github/getting-started-with-github/create-a-repo).
+
 Caso não tenha uma conta no GitHub, [faça o registro](https://help.github.com/pt/github/getting-started-with-github/signing-up-for-github).
 
-## 2. Abra o terminal Git Bash
-Sempre utilize o terminal **Git Bash** para realizar as atividades das aulas práticas.
+## 2. Abra o terminal
+
+Windows: Sempre utilize o terminal **Git Bash** para realizar as atividades das aulas práticas.
 
 OBS: todas as máquinas devem ter instalado o Git e o Git Bash, mas caso a sua máquina não tenha,
-baixe e instale no Windows (https://git-scm.com/download/win).
+baixe e instale (https://git-scm.com/download).
 
 ## 3. Crie uma pasta de trabalho na sua máquina chamada ``tdd-project``
 
@@ -85,10 +87,6 @@ $ pip install "django<1.12" "selenium<4"
 
 O Geckodriver permite controlar o Firefox remotamente através do Selenium.
 
-- https://github.com/mozilla/geckodriver/releases
-- No Windows: descompacte e coloque dentro da sua pasta de trabalho `tdd-project`:
+- Download: https://github.com/mozilla/geckodriver/releases
+- Windows: descompacte e coloque dentro da sua pasta de trabalho `tdd-project`
 - Mac/Linux: descompacte e coloque na pasta `/usr/local/bin` (você vai precisar usar o `sudo`) 
-
-## 9. Ao concluir a aula prática, submeta via Moodle a dupla e o repositório GitHub
-
-
