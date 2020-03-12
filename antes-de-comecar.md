@@ -1,7 +1,13 @@
+## Requisitos
+- Python 3.6+ (https://www.python.org)
+- Git (http://git-scm.com)
+- Firefox (https://www.mozilla.org/firefox)
+
+
 ## 1. Crie um repositório na sua conta do GitHub chamado ``tdd-project``
 
-Se necessário, leia mais informações [aqui](https://help.github.com/pt/github/getting-started-with-github/create-a-repo).
-
+Se necessário, leia mais informações [sobe como criar um repositório](https://help.github.com/pt/github/getting-started-with-github/create-a-repo).
+Caso não tenha uma conta no GitHub, [faça o registro](https://help.github.com/pt/github/getting-started-with-github/signing-up-for-github).
 
 ## 2. Abra o terminal Git Bash
 Sempre utilize o terminal **Git Bash** para realizar as atividades das aulas práticas.
@@ -25,7 +31,7 @@ $ echo "# tdd-project" >> README.md
 $ git init
 $ git add README.md
 $ git commit -m "first commit"
-$ git remote add origin git@github.com:SUA_CONTA/tdd-project.git
+$ git remote add origin https://github.com/SUA_CONTA/tdd-project.git
 $ git push -u origin master
 ```
 
@@ -33,21 +39,35 @@ $ git push -u origin master
 
 Dentro da sua pasta de trabalho `tdd-project`, crie um ambiente virtual Python 3.7 (virtualenv):
 
+Windows:
 ```
 $ py -3.7 -m venv virtualenv
 ```
 
+Mac/Linux:
+```
+$ python3.7 -m venv virtualenv
+```
+
 ## 6. Ative seu ambiente virtual
 
-Dentro da sua pasta de trabalho `tdd-project`:
+Dentro da sua pasta de trabalho `tdd-project`, ative o ambiente virtual Python:
+
+Ativando no Windows:
 
 ```ShellSession
 $ source virtualenv/Scripts/activate
 ```
 
-Note que a palavra **virtualenv** vai aparecer no seu terminal.
+Ativando no Mac/Linux::
 
-**IMPORTANTE:** O ambiente virtual deve estar ativado para realizar as atividades.
+```ShellSession
+source virtualenv/bin/activate
+```
+
+Note que a palavra **virtualenv** vai aparecer no seu terminal, mostrando que o ambiente virtual está ativo.
+
+**IMPORTANTE:** O ambiente virtual deve estar sempre ativado para realizar as atividades.
 
 **OBS:** para desativar o ambiente vistual basta digital: `deactivate`.
 
@@ -65,9 +85,9 @@ $ pip install "django<1.12" "selenium<4"
 
 O Geckodriver permite controlar o Firefox remotamente através do Selenium.
 
-Baixe o driver, descompacte e coloque dentro da sua pasta de trabalho `tdd-project`:
-
-- https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win64.zip
+- https://github.com/mozilla/geckodriver/releases
+- No Windows: descompacte e coloque dentro da sua pasta de trabalho `tdd-project`:
+- Mac/Linux: descompacte e coloque na pasta `/usr/local/bin` (você vai precisar usar o `sudo`) 
 
 ## 9. Ao concluir a aula prática, submeta via Moodle a dupla e o repositório GitHub
 
