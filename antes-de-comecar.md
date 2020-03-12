@@ -62,7 +62,7 @@ $ source virtualenv/Scripts/activate
 Ativando no Mac/Linux::
 
 ```ShellSession
-source virtualenv/bin/activate
+$ source virtualenv/bin/activate
 ```
 
 Note que a palavra **virtualenv** vai aparecer no seu terminal, mostrando que o ambiente virtual está ativo.
