@@ -69,7 +69,7 @@ Note que a palavra **virtualenv** vai aparecer no seu terminal, mostrando que o 
 
 ### IMPORTANTE: O ambiente virtual deve estar sempre ativado para realizar as atividades.
 
-## 7. Instale Django e Selenium
+## 7. Instale Django e Selenium (com ambiente virtual ativado)
 
 Com o ambiente virtual **ativado**, instale o Django 1.11 e o Selenium:
 
