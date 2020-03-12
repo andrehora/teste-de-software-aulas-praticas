@@ -14,9 +14,6 @@ Caso não tenha uma conta no GitHub, [faça o registro](https://help.github.com/
 
 Windows: Sempre utilize o terminal **Git Bash** para realizar as atividades das aulas práticas.
 
-OBS: todas as máquinas devem ter instalado o Git e o Git Bash, mas caso a sua máquina não tenha,
-baixe e instale (https://git-scm.com/download).
-
 ## 3. Crie uma pasta de trabalho na sua máquina chamada ``tdd-project``
 
 ```ShellSession
