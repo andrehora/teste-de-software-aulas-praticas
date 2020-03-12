@@ -59,7 +59,7 @@ Ativando no Windows:
 $ source virtualenv/Scripts/activate
 ```
 
-Ativando no Mac/Linux::
+Ativando no Mac/Linux:
 
 ```ShellSession
 $ source virtualenv/bin/activate
