@@ -36,7 +36,8 @@ $ git push -u origin master
 
 ## 5. Crie um ambiente virtual Python (virtualenv)
 
-Dentro da sua pasta de trabalho `tdd-project`, crie um ambiente virtual Python 3.7 (virtualenv):
+Dentro da sua pasta de trabalho `tdd-project`, crie um ambiente virtual Python 3.6+.
+Nesse caso, estamos criando um ambiente com Python 3.7:
 
 Windows:
 ```
