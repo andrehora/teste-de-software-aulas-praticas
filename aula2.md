@@ -1223,7 +1223,7 @@ Vamos implementar essa funcionalidade, começando com a adição de um novo Tesd
 
 ```Python
 ...
-    def test_displays_all_list_items:
+    def test_displays_all_list_items(self):
         Item.objects.create(text='itemey 1')
         Item.objects.create(text='itemey 2')
 
