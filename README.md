@@ -7,7 +7,7 @@
 
 - [Aula Prática 1](aula1.md): Introdução a TDD, Testes Funcionais e Testes de Unidade (11/03/2020)
 
-- Aula Prática 2: 16/03/2020
+- [Aula Prática 2](aula2.md): Testando Interações do Usuário, Regressão e Banco de Dados (16/03/2020)
 
 - Aula Prática 3: 18/03/2020
 
