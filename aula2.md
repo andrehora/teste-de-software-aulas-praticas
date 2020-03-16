@@ -1377,7 +1377,7 @@ Para utilizar `{{ forloop.counter }}`:
 ...
         <table id="id_list_table">
             {% for item in items %}
-                <tr><td>{ forloop.counter }}: {{ item.text }}</td></tr>
+                <tr><td>{{ forloop.counter }}: {{ item.text }}</td></tr>
             {% endfor %}
         </table>
 ...
