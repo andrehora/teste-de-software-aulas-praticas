@@ -1299,8 +1299,9 @@ def home_page(request):
     return render(request, 'home.html', {'items': items})
 ```
 
-O Teste de Unidade continua falhando!
+O Teste de Unidade passa! 
 
+No entanto, o Teste Funcional continua falhando!
 Abra o browser em http://localhost:8000 e verifique o que está ocorrendo.
 
 #### COMMIT & PUSH com a mensagem: Apresentar Múltiplos Itens na Listagem
@@ -1340,15 +1341,6 @@ Running migrations:
 ```
 
 Abra o browser em http://localhost:8000 novamente e verifique que o erro não aparece mais.
-
-Ok, rode o Teste de Unidade novamente, e veja ele passar:
-
-```ShellSession
-$ python manage.py test
-...
-Ran 6 tests in 0.024s
-OK
-```
 
 Rode o Teste Funcional, e veja que ele vai falhar:
 
