@@ -61,7 +61,7 @@ $ py -3.7 -m venv virtualenv
 ### Ativar Virtualenv Mac/Linux:
 
 ```ShellSession
-$ source virtualenv/Scripts/activate
+$ source virtualenv/bin/activate
 ```
 
 ### Ativar Virtualenv Windows:
