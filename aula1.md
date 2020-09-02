@@ -1,5 +1,10 @@
 # Teste de Software
 
+ATENÇÃO, leia os documentos abaixo antes de iniciar:
+
+- [Antes de começar](antes-de-comecar.md)
+- [Comandos úteis](comandos-uteis.md)
+
 ## Aula Prática 1: Introdução a TDD, Testes Funcionais e Testes de Unidade
 
 Prof. André Hora
