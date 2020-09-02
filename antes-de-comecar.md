@@ -34,6 +34,8 @@ $ git remote add origin https://github.com/SUA_CONTA/tdd-project.git
 $ git push -u origin master
 ```
 
+Mais informações: https://docs.github.com/pt/github/getting-started-with-github/create-a-repo
+
 ## 5. Crie um ambiente virtual Python (virtualenv)
 
 Dentro da sua pasta de trabalho `tdd-project`, crie um ambiente virtual Python 3.6+.
