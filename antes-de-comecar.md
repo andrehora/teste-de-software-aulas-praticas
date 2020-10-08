@@ -17,7 +17,7 @@ Windows: Sempre utilize o terminal **Git Bash** para realizar as atividades das 
 ## 3. Crie uma pasta de trabalho na sua máquina chamada ``tdd-project``
 
 ```console
-$ mkdir tdd-project
+mkdir tdd-project
 cd tdd-project
 ```
 
@@ -44,12 +44,12 @@ Dentro da sua pasta de trabalho `tdd-project`, crie um ambiente virtual Python 3
 Nesse caso, estamos criando um ambiente com Python 3.7 (isso pode demorar alguns segundos):
 
 Windows:
-```ShellSession
+```console
 py -3.7 -m venv virtualenv
 ```
 
 Mac/Linux:
-```
+```console
 python3.7 -m venv virtualenv
 ```
 
@@ -59,13 +59,13 @@ Dentro da sua pasta de trabalho `tdd-project`, ative o ambiente virtual Python:
 
 Ativando no Windows:
 
-```ShellSession
+```console
 source virtualenv/Scripts/activate
 ```
 
 Ativando no Mac/Linux:
 
-```ShellSession
+```console
 source virtualenv/bin/activate
 ```
 
@@ -82,7 +82,7 @@ Para desativar o ambiente virtual, basta digitar: `deactivate`.
 
 Com o ambiente virtual **ativado**, instale o Django 1.11 e o Selenium:
 
-```
+```console
 (virtualenv)
 $ pip install "django<1.12" "selenium<4"
 ```
