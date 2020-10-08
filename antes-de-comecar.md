@@ -21,7 +21,7 @@ $ mkdir tdd-project
 $ cd tdd-project
 ```
 
-## 4. Configure seu repositório GitHub
+## 4. Configure e inicialize seu repositório GitHub
 
 Dentro da pasta `tdd-project`:
 
@@ -34,12 +34,14 @@ $ git remote add origin https://github.com/SUA_CONTA/tdd-project.git
 $ git push -u origin master
 ```
 
+Confira se o commit foi realizado com sucesso: https://github.com/SUA_CONTA/tdd-project
+
 Mais informações: https://docs.github.com/pt/github/getting-started-with-github/create-a-repo
 
 ## 5. Crie um ambiente virtual Python (virtualenv)
 
 Dentro da sua pasta de trabalho `tdd-project`, crie um ambiente virtual Python 3.6+.
-Nesse caso, estamos criando um ambiente com Python 3.7:
+Nesse caso, estamos criando um ambiente com Python 3.7 (isso pode demorar alguns segundos):
 
 Windows:
 ```
