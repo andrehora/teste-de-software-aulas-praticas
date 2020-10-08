@@ -17,8 +17,8 @@ Windows: Sempre utilize o terminal **Git Bash** para realizar as atividades das 
 ## 3. Crie uma pasta de trabalho na sua máquina chamada ``tdd-project``
 
 ```ShellSession
-$ mkdir tdd-project
-$ cd tdd-project
+mkdir tdd-project
+cd tdd-project
 ```
 
 ## 4. Configure e inicialize seu repositório GitHub
@@ -26,12 +26,12 @@ $ cd tdd-project
 Dentro da pasta `tdd-project`:
 
 ```ShellSession
-$ echo "# tdd-project" >> README.md
-$ git init
-$ git add README.md
-$ git commit -m "first commit"
-$ git remote add origin https://github.com/SUA_CONTA/tdd-project.git
-$ git push -u origin master
+echo "# tdd-project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/SUA_CONTA/tdd-project.git
+git push -u origin master
 ```
 
 Confira se o commit foi realizado com sucesso: https://github.com/SUA_CONTA/tdd-project
@@ -44,7 +44,7 @@ Dentro da sua pasta de trabalho `tdd-project`, crie um ambiente virtual Python 3
 Nesse caso, estamos criando um ambiente com Python 3.7 (isso pode demorar alguns segundos):
 
 Windows:
-```Shell
+```ShellSession
 py -3.7 -m venv virtualenv
 ```
 
@@ -60,13 +60,13 @@ Dentro da sua pasta de trabalho `tdd-project`, ative o ambiente virtual Python:
 Ativando no Windows:
 
 ```ShellSession
-$ source virtualenv/Scripts/activate
+source virtualenv/Scripts/activate
 ```
 
 Ativando no Mac/Linux:
 
 ```ShellSession
-$ source virtualenv/bin/activate
+source virtualenv/bin/activate
 ```
 
 Note que a palavra **virtualenv** vai aparecer no seu terminal, mostrando que o ambiente virtual está ativo.
