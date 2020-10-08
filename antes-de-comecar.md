@@ -44,13 +44,13 @@ Dentro da sua pasta de trabalho `tdd-project`, crie um ambiente virtual Python 3
 Nesse caso, estamos criando um ambiente com Python 3.7 (isso pode demorar alguns segundos):
 
 Windows:
-```
-$ py -3.7 -m venv virtualenv
+```Shell
+py -3.7 -m venv virtualenv
 ```
 
 Mac/Linux:
 ```
-$ python3.7 -m venv virtualenv
+python3.7 -m venv virtualenv
 ```
 
 ## 6. Ative seu ambiente virtual
