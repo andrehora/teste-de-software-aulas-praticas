@@ -1,6 +1,6 @@
 # Teste de Software: Aulas Práticas
 
-- [Antes de começar](antes-de-comecar.md)
+- [Antes de começar](antes.md)
 - [Comandos úteis](comandos-uteis.md)
 
 ## Parte 1
