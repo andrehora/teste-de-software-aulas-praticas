@@ -16,7 +16,7 @@ Windows: Sempre utilize o terminal **Git Bash** para realizar as atividades das 
 
 ## 3. Crie uma pasta de trabalho na sua máquina chamada ``tdd-project``
 
-```console
+```properties
 mkdir tdd-project
 cd tdd-project
 ```
@@ -25,7 +25,7 @@ cd tdd-project
 
 Dentro da pasta `tdd-project`:
 
-```console
+```properties
 echo "# tdd-project" >> README.md
 git init
 git add README.md
