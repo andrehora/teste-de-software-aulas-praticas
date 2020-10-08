@@ -17,7 +17,7 @@ Windows: Sempre utilize o terminal **Git Bash** para realizar as atividades das 
 ## 3. Crie uma pasta de trabalho na sua máquina chamada ``tdd-project``
 
 ```ShellSession
-mkdir tdd-project
+$ mkdir tdd-project
 cd tdd-project
 ```
 
