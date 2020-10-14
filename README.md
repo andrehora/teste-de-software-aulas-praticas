@@ -13,8 +13,8 @@
 
 ## Parte 2
 
-- Aula Prática 4: ...
+- [Aula Prática 4](aula4.md): Melhorando Layout e Implementando Validação (14/10/2020)
 
-- Aula Prática 5: ...
+- Aula Prática 5: (19/10/2020)
 
-- Aula Prática 6: ...
+- Aula Prática 6 (extra): 24/10/2020
