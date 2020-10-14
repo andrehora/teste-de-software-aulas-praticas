@@ -2,6 +2,7 @@
 
 - [Antes de começar](antes.md)
 - [Comandos úteis](comandos-uteis.md)
+- [Conceitos e técnicas](conceitos.md)
 
 ## Parte 1
 
