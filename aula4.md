@@ -869,7 +869,7 @@ def view_list(request, list_id):
 ```
 
 Por fim, remova a view `add_item` em **lists/views.py**, uma vez que ela não é mais utilizada.
-Delete também a linha que faz referência a view `add_item` em  **lists/urls.py**.
+Delete também a linha que faz referência a view `add_item` em  **superlists/urls.py**.
 
 Rode o teste de unidade novamente:
 
