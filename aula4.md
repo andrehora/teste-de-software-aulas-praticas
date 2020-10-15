@@ -575,6 +575,8 @@ Como sempre no TDD, iniciamos pelos testes de unidade.
 Adicione o seguinte teste na classe `ListAndItemModelsTest` em **lists/tests/test_models.py**
 
 ```python
+from django.core.exceptions import ValidationError
+...
     def test_cannot_save_empty_list_items(self):
         list_ = List.objects.create()
         item = Item(list=list_, text='')
