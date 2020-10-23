@@ -1,6 +1,6 @@
 # Teste de Software
 
-## Aula Prática 6: Finalizando e Testando a Autenticação
+## Aula Prática 6: Finalizando e Testando a Autenticação (extra)
 
 Prof. André Hora
 
