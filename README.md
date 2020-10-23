@@ -18,4 +18,4 @@
 
 - [Aula Prática 5](aula5.md): Autenticação e Test Doubles (19/10/2020)
 
-- Aula Prática 6 (extra): 24/10/2020
+- [Aula Prática 6](aula6.md) (extra): Finalizando e Testando a Autenticação (24/10/2020)
