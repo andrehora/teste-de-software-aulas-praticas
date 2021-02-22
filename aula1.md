@@ -59,7 +59,7 @@ Conforme esperado, o teste vai falhar (estado vermelho do ciclo TDD).
 ```ShellSession
 $ git add functional_tests.py
 $ git commit -m "Iniciando com Testes Funcionais"
-$ git push -u origin master
+$ git push -u origin main
 ```
 
 ## 2. Criando projeto Django e subindo o servidor
@@ -126,7 +126,7 @@ Lembre de adicionar o arquivo .gitignore:
 ```ShellSession
 $ git add .gitignore
 $ git commit -m "Criando projeto Django e subindo o servidor"
-$ git push -u origin master
+$ git push -u origin main
 ```
 
 Parabéns! Você implementou (e versionou) o seu primeiro teste funcional!
