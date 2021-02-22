@@ -41,7 +41,7 @@ $ python manage.py runserver
 ```ShellSession
 $ git add xxx
 $ git commit -m "mensagem de commit"
-$ git push -u origin master
+$ git push -u origin main
 ```
 
 # Virtualenv
