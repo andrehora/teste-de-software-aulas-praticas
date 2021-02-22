@@ -390,10 +390,10 @@ new user
 Ran 1 test in 11.351s
 ```
 
-Ok, agora vamos voltar para a branch principal `master`.
+Ok, agora vamos voltar para a branch principal `main`.
 
 ```sh
-$ git checkout master
+$ git checkout main
 ```
 
 Remova a pasta **accounts** que foi criada no passo anterior (iremos re-implementá-la com TDD):
@@ -404,12 +404,12 @@ $ rm -rf accounts
 
 #### COMMIT & PUSH com a mensagem: De volta ao TDD
 
-IMPORTANTE: Adicione o teste funcional **test_login.py** na `master`:
+IMPORTANTE: Adicione o teste funcional **test_login.py** na `main`:
 
 ```sh
 $ git add functional_tests/test_login.py
 $ git commit -m "De volta ao TDD"
-$ git push -u origin master
+$ git push -u origin main
 ```
 
 ## 3. Recriando a aplicação accounts
@@ -460,7 +460,7 @@ AssertionError: 'Check your email' not found in 'Superlists\nEnter email to log 
 
 #### COMMIT & PUSH com a mensagem: Recriando a aplicação accounts
 
-Lembre-se de adicionar a pasta **accounts** na master.
+Lembre-se de adicionar a pasta **accounts** na branch main.
 
 ## 4. Modelo de usuário mínimo
 
