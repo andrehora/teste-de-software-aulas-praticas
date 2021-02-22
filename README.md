@@ -1,10 +1,9 @@
 # Teste de Software: Aulas Práticas
 
-## ATENÇÃO: LEIA OS TRÊS DOCUMENTOS ABAIXO ANTES DE INICIAR AS AULAS PRÁTICAS
+## ATENÇÃO: LEIA OS DOIS DOCUMENTOS ABAIXO ANTES DE INICIAR AS AULAS PRÁTICAS
 
 1. [Antes de começar](antes.md)
 2. [Comandos úteis](comandos-uteis.md)
-3. [Conceitos e técnicas](conceitos.md)
 
 ## Aulas Práticas
 
