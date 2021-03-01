@@ -503,7 +503,7 @@ Ran 2 tests in 22.790s
 FAILED (failures=1)
 ```
 
-Note que o primeiro teste (isto é, `test_can_start_a_list_and_retrieve_it_later`) voltou a passar com sucesso.
+Note que o primeiro teste (isto é, `test_can_start_a_list_for_one_user`) voltou a passar com sucesso.
 Ou seja, removemos a regressão que foi adicionada na etapa anterior.
 No entanto, o novo teste (isto é, `test_multiple_users_can_start_lists_at_different_urls`) está falhando.
 Isso é esperado, pois a implementação da nova funcionalidade ainda não foi finalizada.
@@ -660,7 +660,7 @@ FAIL: test_multiple_users_can_start_lists_at_different_urls (functional_tests.te
 AssertionError: '1: Comprar leite' not found in ['1: Estudar testes funcionais', '2: Comprar leite']
 ```
 
-Veja que nenhuma regressão foi inserida na aplicação, ou seja, o teste antigo `test_can_start_a_list_and_retrieve_it_later` continua passando.
+Veja que nenhuma regressão foi inserida na aplicação, ou seja, o teste antigo `test_can_start_a_list_for_one_user` continua passando.
 O teste que está falhando é o novo teste que verifica múltiplos usuários, isto é, `test_multiple_users_can_start_lists_at_different_urls`.
 Ou seja, apesar do novo teste não estar passando, garantimos que nenhuma regressão foi inserida na aplicação.
 
@@ -756,13 +756,13 @@ Agora, rode o Teste Funcional:
 ```ShellSession
 $ python manage.py test functional_tests
 ...
-ERROR: test_can_start_a_list_and_retrieve_it_later (functional_tests.tests.NewVisitorTest)
+ERROR: test_can_start_a_list_for_one_user (functional_tests.tests.NewVisitorTest)
 ...
 ERROR: test_multiple_users_can_start_lists_at_different_urls (functional_tests.tests.NewVisitorTest)
 ...
 ```
 
-Temos uma regressão em `test_can_start_a_list_and_retrieve_it_later`.
+Temos uma regressão em `test_can_start_a_list_for_one_user`.
 Isso ocorreu pois esquecemos de atualizar as URLs do POSTs nos templates.
 
 Abra os arquivos **lists/templates/home.html** e **lists/templates/list.html**, e altere em ambos de:
