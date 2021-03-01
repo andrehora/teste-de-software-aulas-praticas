@@ -242,7 +242,7 @@ Para adicionar um item em uma lista existente, temos outra URL:
 
 Vamos expandir nosso Teste Funcional **functional_tests/tests.py**.
 
-Primeiro, renomei o método `test_can_start_a_list_and_retrieve_it_later` para `test_can_start_a_list_for_one_user`:
+Primeiro, renomeie o método `test_can_start_a_list_and_retrieve_it_later` para `test_can_start_a_list_for_one_user`:
 
 ```Python
 def test_can_start_a_list_for_one_user(self):
