@@ -299,7 +299,7 @@ Quit the server with CONTROL-C.
 
 ### Comentários finais
 
-- Spiking: exploração de código para entender uma API ou para investigar a viabilidade de uma nova solução. Spiking pode ser realizado sem testes. É uma boa ideia fazer isso em uma nova branch (como fizemos) e depois voltar voltar para a branch principal.
+- Spiking: exploração de código para entender uma API ou para investigar a viabilidade de uma nova solução. Spiking pode ser realizado sem testes. É uma boa ideia fazer isso em uma nova branch (como fizemos) e depois voltar para a branch principal.
 
 - De-spiking: após explorar a nova solução, começar novamente do zero, mas agora utilizando TDD.
 
