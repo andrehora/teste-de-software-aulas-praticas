@@ -12,4 +12,3 @@
 - [Aula Prática 3](aula3.md): Melhorando Testes Funcionais e Expandindo a Aplicação
 - [Aula Prática 4](aula4.md): Melhorando o Layout e Implementando Validação
 - [Aula Prática 5](aula5.md): Autenticação e Test Doubles
-- [Aula Prática 6 - extra](aula6.md): Finalizando e Testando a Autenticação
